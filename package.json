@@ -1,0 +1,11 @@
+{
+  "name": "node-keyboard-event-key",
+  "version": "1.0.0",
+  "description": "Send key code event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Oliveira",
+  "license": "ISC"
+}
