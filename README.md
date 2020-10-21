@@ -1,8 +1,8 @@
 # node-keyboard-event-key
 This is a lib for node, it will send event key, just write a key code from arguments 
 
-How it works ?
-´´´bash
+## How it works ?
+```bash
 const keyboardEvent = require("./node-key-event");
 
 //set your enviroment
@@ -10,10 +10,10 @@ keyboardEvent.isWindows = true (default);
 
 //set a integer keyCode 
 keyboardEvent.eventKeyCode(100)
-´´´
+```
 
-Some key codes
-´´´bash
+## Some key codes
+```bash
 
 {
     "8": "Backspace",
@@ -111,4 +111,4 @@ Some key codes
     "190": ".",
     "191": "/"
 }
-´´´
+```
